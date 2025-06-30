@@ -12,3 +12,12 @@ Features
 ● Graceful handling of invalid inputs
 
 ● Handles both uppercase and lowercase inputs
+
+Concepts Used
+
+● Input/output handling in C
+
+● Conditional statements
+
+● 
+📷 Sample Output
