@@ -18,6 +18,6 @@ This script uses Hugging Face's Transformers and Datasets libraries.
 - Easily adaptable to larger GPT models or alternative datasets
 
 ## ✓ Requirements:
-- transformers
-- datasets
-- torch
+- Transformers
+- Datasets
+- PyTorch (torch)
