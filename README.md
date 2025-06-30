@@ -1,9 +1,9 @@
 # PRODIGY_GA_01
 
-# AI TEXT GENERATOR 
-
+# AI TEXT GENERATOR 🤖
 This is a simple tool that fine-tunes GPT-2 on a custom text dataset to generate coherent and contextually relevant text.
 This script uses Hugging Face's Transformers and Datasets libraries.
+
 
 ## ✓ Features:
 - Loads GPT-2 and tokenizer
