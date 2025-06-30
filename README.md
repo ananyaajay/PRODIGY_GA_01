@@ -1,6 +1,6 @@
 # PRODIGY_GA_01
 
-# AI TEXT GENERATOR 🤖
+# TEXT GENERATION WITH GPT-2 🤖
 This is a simple tool that generates coherent and contextually relevant textbased on a given prompt. This code fine-tunes a pre-trained GPT-2 language model on custom text data using Hugging Face Transformers. It loads the model and tokenizer, processes a text dataset, configures training parameters, and saves the fine-tuned model. The script enables personalized language modeling for specific tasks by adapting GPT-2 to new data.
 
 ## ✓ Features:
