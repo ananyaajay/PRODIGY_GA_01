@@ -6,18 +6,25 @@ This is a simple tool that generates coherent and contextually relevant text-bas
 ## ✓ Features:
 
 • Fine-tunes GPT-2 on your data
+
 • Supports custom text datasets
+
 • Easy model and tokenizer saving
+
 • Simple configuration of training arguments
 
 ## ✓ Concepts Covered:
 
 • Transfer learning for NLP
+
 • Tokenization and data collation
+
 • Language model training with Hugging Face Trainer
 
 ## ✓ Highlights:
 
 • Minimal, beginner-friendly code
+
 • Customizable training settings
+
 • Reusable for various text corpora
